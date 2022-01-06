@@ -1,0 +1,5 @@
+name: NotiaEvent
+version: '${project.version}'
+main: fr.devyn.notiaevent.NotiaEvent
+authors: [ Fluxy ]
+description: Plugin de cité pour notia
